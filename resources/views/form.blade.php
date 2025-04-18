@@ -66,7 +66,7 @@
         <label>Country:</label>
         <input type="text" name="country" placeholder="Enter your country..." required>
         
-        <label>Phone Number:</label>
+        <!-- <!-- <label>Phone Number:</label> -->
         <input type="tel" name="phNum" placeholder="Enter your phone number..." required>
         
         <label>Gender:</label>
