@@ -44,7 +44,7 @@
             border: none;
         }
         button:hover {
-            background-color: #218838;
+            background-color: #218838
         }
     </style>
 </head>
